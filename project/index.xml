@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on LetItLeak</title>
-    <link>http://letitleak.com/project/</link>
+    <link>http://www.letitleak.com/project/</link>
     <description>Recent content in Projects on LetItLeak</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Yohaï Berreby</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://letitleak.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.letitleak.com/project/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>rgo</title>
-      <link>http://letitleak.com/project/rgo/</link>
+      <link>http://www.letitleak.com/project/rgo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://letitleak.com/project/rgo/</guid>
+      <guid>http://www.letitleak.com/project/rgo/</guid>
       <description></description>
     </item>
     

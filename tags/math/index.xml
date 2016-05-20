@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Math on LetItLeak</title>
-    <link>http://letitleak.com/tags/math/</link>
+    <link>http://www.letitleak.com/tags/math/</link>
     <description>Recent content in Math on LetItLeak</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Yohaï Berreby</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://letitleak.com/tags/math/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.letitleak.com/tags/math/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Math Example</title>
-      <link>http://letitleak.com/post/math-example/</link>
+      <link>http://www.letitleak.com/post/math-example/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://letitleak.com/post/math-example/</guid>
+      <guid>http://www.letitleak.com/post/math-example/</guid>
       <description>
 
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
