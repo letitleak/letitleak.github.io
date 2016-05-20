@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on LetItLeak</title>
+    <link>http://replace-this-with-your-website-url.com/home/</link>
+    <description>Recent content in Homes on LetItLeak</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Yohaï Berreby</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-website-url.com/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>http://replace-this-with-your-website-url.com/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-website-url.com/home/about/</guid>
+      <description>
+
+&lt;h1 id=&#34;biography:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Biography&lt;/h1&gt;
+
+&lt;p&gt;Hi! I&amp;rsquo;m Yohaï Berreby, or &lt;a href=&#34;https://github.com/yberreby&#34;&gt;@yberreby&lt;/a&gt; for short. I
+am a self-taught developer.&lt;/p&gt;
+
+&lt;p&gt;When I&amp;rsquo;m not studying, I spend time studying programming, hacking around,
+reading technical articles, mainly on &lt;a href=&#34;http://news.ycombinator.com&#34;&gt;Hacker News&lt;/a&gt;
+and &lt;a href=&#34;http://www.reddit.com/r/programming&#34;&gt;/r/programming&lt;/a&gt;. I started being
+interested in programming around 2011.&lt;/p&gt;
+
+&lt;p&gt;I first dabbled with C, then went on to learn some Python, Ruby, client- and
+server-side (with Node.js) JavaScript. But these days, I&amp;rsquo;m mainly using
+&lt;a href=&#34;http://www.rust-lang.org/&#34;&gt;Rust&lt;/a&gt;, a promising systems programming language
+backed by Mozilla featuring zero-cost abstractions, a very strong type system
+and compile-time prevention of memory unsafety and data races.&lt;/p&gt;
+
+&lt;p&gt;In the past, I wrote a few Node.js bots to interface with
+&lt;a href=&#34;http://steampowered.com/&#34;&gt;Steam&lt;/a&gt; trading, using
+the &lt;a href=&#34;https://github.com/seishun/node-steam&#34;&gt;&lt;code&gt;node-steam&lt;/code&gt;&lt;/a&gt; NPM module.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
