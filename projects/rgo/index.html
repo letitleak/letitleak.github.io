@@ -1,0 +1,153 @@
+    <!DOCTYPE html>
+<html lang="en-us">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		
+		<meta name="generator" content="Hugo 0.15" />
+		<title>rgo: a Go compiler toolchain, written in Rust. &middot; LetItLeak</title>
+		<link rel="shortcut icon" href="http://www.letitleak.com/images/favicon.ico">
+		<link rel="stylesheet" href="http://www.letitleak.com/css/style.css">
+		<link rel="stylesheet" href="http://www.letitleak.com/css/highlight.css">
+		
+
+		
+		<link rel="stylesheet" href="http://www.letitleak.com/css/monosocialiconsfont.css">
+		
+
+		
+	</head>
+
+    <body>
+       <nav class="main-nav">
+	
+	
+		<a href='http://www.letitleak.com/'> <span class="arrow">←</span>Home</a>
+	
+
+	
+		<a href='http://www.letitleak.com/about'>About</a>
+	
+
+	
+</nav>
+
+        <section id="wrapper">
+            <article class="post">
+                <header>
+                    <h1>rgo: a Go compiler toolchain, written in Rust.</h1>
+                    <h2 class="headline">
+                    May 21, 2016 
+                    <br>
+                    
+                    
+                        
+                            <a href="http://www.letitleak.com/tags/compilers">compilers</a>
+                        
+                            <a href="http://www.letitleak.com/tags/rust">rust</a>
+                        
+                            <a href="http://www.letitleak.com/tags/go">go</a>
+                        
+                    
+                    
+                    </h2>
+                </header>
+                <section id="post-body">
+                    <p><strong>This is a work-in-progress.</strong></p>
+
+<p>My new project, <a href="https://github.com/yberreby/rgo"><code>rgo</code></a>, is a Go compiler
+toolchain, written in <a href="http://rust-lang.org/">Rust</a>. It&rsquo;s not finished yet, but
+it&rsquo;s basically going to be a program that can compile Go code down to machine
+code, as well as a library that can be used to parse Go code, among other
+things.</p>
+
+<p>I started writing <code>rgo</code> because I had a goal: learning how to write a
+fully-fledged compiler for a programming language that people actuall use. Not a
+toy language, because, although that would have been much simpler, it would also
+be a much less rewarding and interesting experience.</p>
+
+<p>I&rsquo;ve always wanted to write a compiler or an interpreter - <em>something</em> that
+takes code and turns it into something runnable. Lisp has been reimplemented
+again and again, and was too simple. C compilers are also commonplace, AND the
+language has its share of warts.</p>
+
+<p>So I chose to write a compiler for Go. I dislike many of the language&rsquo;s design
+choices, but it seemed like a good fit. To the best of my knowledge, there is no
+reimplementation of the Go compiler, whether in Rust or in another language, so
+I decided to write one.</p>
+
+<p>There&rsquo;s an additional challenge: I know very, very little Go, so I&rsquo;m learning
+the language along the way. As of writing, I&rsquo;ve only written a few hundred lines
+of Go - although I found two bugs in the viper package:
+<a href="https://github.com/spf13/viper/issues/174">#174</a> and
+<a href="https://github.com/spf13/viper/issues/175">#175</a>.</p>
+
+<p>My main reference material is the <a href="https://golang.org/ref/spec">Go
+Specification</a> to look up the syntax of various
+constructs and translating that into a bunch of Rust structs and enums. This is
+somewhat tedious, but I&rsquo;m learning a few things about Go&rsquo;s syntax along the way.</p>
+
+                </section>
+            </article>
+            <footer id="post-meta" class="clearfix">
+                
+                        <img class="avatar" src="http://www.letitleak.com/images/avatar.png">
+                        <div>
+                            <span class="dark"></span>
+                            <span></span>
+                        </div>
+                    
+                <section id="sharing">
+                    <a class="twitter" href="https://twitter.com/intent/tweet?text=http%3a%2f%2fwww.letitleak.com%2fprojects%2frgo%2f - rgo%3a%20a%20Go%20compiler%20toolchain%2c%20written%20in%20Rust. "><span class="icon-twitter"> Tweet</span></a>
+
+<a class="facebook" href="#" onclick="
+    window.open(
+      'https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),
+      'facebook-share-dialog',
+      'width=626,height=436');
+    return false;"><span class="icon-facebook-rect"> Share</span>
+</a>
+
+                </section>
+            </footer>
+
+            
+
+            <ul id="post-list" class="archive readmore">
+    <h3>Read more</h3>
+    
+    
+        
+   
+    
+        
+        <li>
+            <a href="http://www.letitleak.com/projects/rgo/">rgo: a Go compiler toolchain, written in Rust.<aside class="dates">May 21</aside></a>
+        </li>
+        
+   
+</ul>
+            <footer id="footer">
+    
+    <p class="small">
+    
+        © Copyright 2016 
+    
+    </p>
+</footer>
+
+        </section>
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="http://www.letitleak.com/js/main.js"></script>
+<script src="http://www.letitleak.com/js/highlight.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+
+
+
+    </body>
+</html>
