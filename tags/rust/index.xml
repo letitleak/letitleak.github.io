@@ -16,9 +16,7 @@
       <pubDate>Sat, 21 May 2016 00:00:00 +0000</pubDate>
       
       <guid>http://www.letitleak.com/projects/rgo/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;This is a work-in-progress.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;My new project, &lt;a href=&#34;https://github.com/yberreby/rgo&#34;&gt;&lt;code&gt;rgo&lt;/code&gt;&lt;/a&gt;, is a Go compiler
+      <description>&lt;p&gt;My new project, &lt;a href=&#34;https://github.com/yberreby/rgo&#34;&gt;&lt;code&gt;rgo&lt;/code&gt;&lt;/a&gt;, is a Go compiler
 toolchain, written in &lt;a href=&#34;http://rust-lang.org/&#34;&gt;Rust&lt;/a&gt;. It&amp;rsquo;s not finished yet, but
 it&amp;rsquo;s basically going to be a program that can compile Go code down to machine
 code, as well as a library that can be used to parse Go code, among other
@@ -46,9 +44,10 @@ of Go - although I found two bugs in the viper package:
 &lt;a href=&#34;https://github.com/spf13/viper/issues/175&#34;&gt;#175&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;My main reference material is the &lt;a href=&#34;https://golang.org/ref/spec&#34;&gt;Go
-Specification&lt;/a&gt; to look up the syntax of various
-constructs and translating that into a bunch of Rust structs and enums. This is
-somewhat tedious, but I&amp;rsquo;m learning a few things about Go&amp;rsquo;s syntax along the way.&lt;/p&gt;
+Specification&lt;/a&gt;. I use it to look up the syntax of
+various constructs and translate that into a bunch of Rust structs and enums.
+This is somewhat tedious, but I&amp;rsquo;m learning about Go&amp;rsquo;s syntax along
+the way.&lt;/p&gt;
 </description>
     </item>
     
